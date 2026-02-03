@@ -1,2 +1,3 @@
-# Bachelor-s-Thesis---The-Entry-of-Big-Techs-into-the-Financial-Sector
-Anlaysis of implications, risks and regulations from the entrace of Big Tech companies in the financial services industry.
+# Bachelors-Thesis---The-Entry-of-Big-Techs-into-the-Financial-Sector
+
+In this thesis I look at the main effects brought by the entry of Big Techs in the financial ecosystem. In the first part of the research, I give an overview of the Big Tech market, with a focus on the main financial solutions these companies offer. In the second part, I survey the existing literature to analyse how tech giants affect both competition in the financial services industry and financial inclusion among individuals and business. The analysis reveals a spectrum of potential outcomes, ranging from beneficial to harmful, in each of the two areas . Lastly, I examine the regulatory challenge by reviewing some of the key strategies suggested by authoritative bodies to mitigate possible risks associated to the entrance of Big Techs into financial services. ​
